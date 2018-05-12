@@ -1,0 +1,6 @@
+https://rvm_io.global.ssl.fastly.net/binaries/ubuntu/17.04/x86_64/ruby-2.4.2.tar.bz2=d13c87567cfdc20058af94e67144041f
+ironruby-1.0.zip=7a92888837b3507355ed391dbfc0ab83
+ironruby-1.1.3.zip=4f2af6253a459cc054d6c55956e514a9
+jruby-bin-1.3.1.tar.gz=4a95db8fc93ed7219663fbede98b6117
+jruby-bin-1.4.tar.gz=54dba9a88b2b3f99ac86a79828d0178b
+jruby-bin-1.4.0.tar.gz=f37322c18e9134e91e064aebb4baa4c7

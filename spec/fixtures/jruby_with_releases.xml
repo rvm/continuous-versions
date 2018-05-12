@@ -1,0 +1,16 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>JRuby.org News</title>
+  <link href="http://www.jruby.org/atom.xml" rel="self"/>
+  <link href="http://www.jruby.org"/>
+  <updated>2018-04-23T16:31:29+00:00</updated>
+  <id>http://www.jruby.org/</id>
+  <author>
+    <name>The JRuby Team</name>
+    <email>something</email>
+  </author>
+  <entry>
+    <id>something</id>
+    <updated>2018-04-23T00:00:00+00:00</updated>
+    <title>JRuby 9.1.17.0 Released</title>
+  </entry>
+</feed>
